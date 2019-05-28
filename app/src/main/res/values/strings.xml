@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">YalanDogruApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lie">YALAN</string>
+    <string name="truth">DOGRU</string>
+    <string name="enteryourlie">Yalaninizi Giriniz</string>
+    <string name="enteryourtruth">Dogrunuzu Giriniz</string>
+
+
+</resources>
